@@ -23,4 +23,4 @@ function puedeManejar (edad) {
     }
 }
 
-puedeManejar (17)
+puedeManejar (20)
