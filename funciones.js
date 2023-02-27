@@ -26,3 +26,11 @@
 
 var animal = "Caballo"
 console.log(animal)
+
+// Un ejemplo de una suma. 
+
+function suma (x , y){
+    var resultado;
+    resultado = x + y;
+    return resultado; 
+}

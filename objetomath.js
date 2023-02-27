@@ -36,3 +36,6 @@ console.log (numerosMin)
 
 var random = Math.random( );
 console.log(random)
+
+// Quito uso. Math.sing(). retorna si el numero es positivo, negatico o cero. 
+
